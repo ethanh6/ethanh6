@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ## Hi there 👋
-Hi, I'm Ethan Huang! I'm a final year Computer Science student at University of California, San Diego. I'm currently learning frontend skills and I'm excited to build my personal webpage here! ✨✨✨
+I'm Ethan! I'm a final year Computer Science student at University of California, San Diego. I'm currently learning frontend skills and I'm excited to build my personal webpage here! ✨✨✨
 
 ## 🎈 My Value
 🌱 Keep beginner's mindset and curiosity. <br>
