@@ -38,8 +38,9 @@ I'm Ethan! I'm a final year Computer Science student at University of California
   - CSS3
   - Javascript
 
-### Tool
+### Tools
 - Git 
 - VS Code
 - Vim
 - Docker
+- Windows, Mac and Linux
