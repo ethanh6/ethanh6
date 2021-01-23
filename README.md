@@ -15,21 +15,24 @@
 - Data Mining And Visualization with Python
 
 ## Languages and Tools
-<code><img height="20" src="media/arch.png"></code>
-<code><img height="20" src="media/c.png"></code>
-<code><img height="20" src="media/cpp.png"></code>
-<code><img height="20" src="media/css.png"></code>
-<code><img height="20" src="media/docker.png"></code>
-<code><img height="20" src="media/git.png"></code>
-<code><img height="20" src="media/html.png"></code>
-<code><img height="20" src="media/java.png"></code>
-<code><img height="20" src="media/js.png"></code>
-<code><img height="20" src="media/linux.png"></code>
-<code><img height="20" src="media/medium.png"></code>
-<code><img height="20" src="media/python.png"></code>
-<code><img height="20" src="media/ubuntu.png"></code>
-<code><img height="20" src="media/vim.png"></code>
-<code><img height="20" src="media/vscode.png"></code>
+<code><img height="25" src="media/python.png"></code>
+<code><img height="25" src="media/cpp.png"></code>
+<code><img height="25" src="media/c.png"></code>
+<code><img height="25" src="media/java.png"></code>
+<code><img height="25" src="media/js.png"></code>
+<code><img height="25" src="media/css.png"></code>
+<code><img height="25" src="media/html.png"></code>
+<code><img height="25" src="media/docker.png"></code>
+<code><img height="25" src="media/git.png"></code>
+<code><img height="25" src="media/linux.png"></code>
+<code><img height="25" src="media/arch.png"></code>
+<code><img height="25" src="media/ubuntu.png"></code>
+<code><img height="25" src="media/vim.png"></code>
+<code><img height="25" src="media/vscode.png"></code>
+
+## About Me
+- [LinkedIn](https://www.linkedin.com/in/ethanhuang0606/)
+- [Email](mailto:ethuang@ucsd.edu)
 
 <code>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ethanh6&show_icons=true&include_all_commits=true&theme=vue-dark" alt="Ethan's github stats"  width="48%"/>
