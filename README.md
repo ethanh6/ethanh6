@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Ethan</h1>
-<h2 align="center">Hi, I'm Ethan Huang, a passionate fourth-year Computer Science student at University of California, San Diego.</h3>
+<h2 align="center">Hi, I'm Ethan Huang, a passionate fourth-year Computer Science student at <br> University of California, San Diego.</h3>
 
 ## 🎈 My Value
 - Keep beginner's mindset and curiosity. <br>
