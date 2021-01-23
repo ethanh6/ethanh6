@@ -32,9 +32,9 @@
 <code><img height="20" src="media/vscode.png"></code>
 
 <code>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ethanh6&show_icons=true&include_all_commits=true&theme=vue-dark" alt="Ethan's github stats"  width="40%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ethanh6&show_icons=true&include_all_commits=true&theme=vue-dark" alt="Ethan's github stats"  width="60%"/>
 </code>
 
 <code>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanh6&layout=compact&theme=vue-dark"  width="40%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanh6&layout=compact&theme=vue-dark"  width="60%"/>
 </code>
