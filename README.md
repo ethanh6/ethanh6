@@ -32,7 +32,7 @@
 
 ## About Me
 - [LinkedIn](https://www.linkedin.com/in/ethanhuang0606/)
-- [Email](mailto:ethuang@ucsd.edu)
+- [ethuang@ucsd.edu](mailto:ethuang@ucsd.edu)
 
 <code>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ethanh6&show_icons=true&include_all_commits=true&theme=vue-dark" alt="Ethan's github stats"  width="48%"/>
