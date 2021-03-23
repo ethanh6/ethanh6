@@ -12,8 +12,8 @@
 ## 🧠 What I'm currently learning
 - Frontend Web Development: React.js and Typescript
 - Machine Learning and Deep Learning
-- Blockchain, lower level and implementation
-- Agile Software Development
+- Blockchain: lower level and implementation
+- Agile Software Development Practice
 - Data Mining and Visualization with Python
 
 ## Languages and Tools
