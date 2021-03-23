@@ -18,7 +18,7 @@
 
 ## ✨ What I do
 - Vim
-- Distro hopper, currently vacillating b/w Arch and Manjaro
+- Distro hopper, currently vacillating between Arch and Manjaro
 
 ## Languages and Tools
 <code><img height="25" src="media/python.png"></code>
