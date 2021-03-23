@@ -10,9 +10,11 @@
 - Contribute more to open source community.
 
 ## 🧠 What I'm currently learning
-- Frontend Web Development: Javascript, CSS, HTML, Typescript
+- Frontend Web Development: React.js and Typescript
+- Machine Learning and Deep Learning
+- Blockchain, lower level and implementation
 - Agile Software Development
-- Data Mining And Visualization with Python
+- Data Mining and Visualization with Python
 
 ## Languages and Tools
 <code><img height="25" src="media/python.png"></code>
