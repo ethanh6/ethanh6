@@ -16,6 +16,10 @@
 - Agile Software Development Practice
 - Data Mining and Visualization with Python
 
+## ✨ What I do
+- Vim
+- Distro hopper, currently vacillating b/w Arch and Manjaro
+
 ## Languages and Tools
 <code><img height="25" src="media/python.png"></code>
 <code><img height="25" src="media/cpp.png"></code>
