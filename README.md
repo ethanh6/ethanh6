@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Ethan</h1>
-<h2 align="center">Hi, I'm Ethan Huang, a passionate fourth-year Computer Science student at <br> University of California, San Diego.</h3>
+<h2 align="center">Hi, I'm Ethan Huang, a passionate fourth-year Computer Science student <br> at University of California, San Diego.</h3>
 
 ## 🎈 My Value
 - Keep beginner's mindset and curiosity. <br>
@@ -34,7 +34,7 @@
 
 ## About Me
 - [LinkedIn](https://www.linkedin.com/in/ethanhuang0606/)
-- [Email](mailto:ethuang@ucsd.edu)
+- [ethuang@ucsd.edu](mailto:ethuang@ucsd.edu)
 
 <code>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ethanh6&show_icons=true&include_all_commits=true&theme=vue-dark" alt="Ethan's github stats"  width="48%"/>
